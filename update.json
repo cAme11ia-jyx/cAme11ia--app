@@ -1,0 +1,10 @@
+{
+  "versionCode": 63,
+  "versionName": "1.6.2",
+  "channel": "release",
+  "apkUrl": "https://raw.githubusercontent.com/cAme11ia-jyx/cAme11ia--app/main/yike-1.6.2.apk",
+  "size": 289293,
+  "sha256": "cdf5bd9f178960769fd856bc27a4c67bce6ad32c0e41fa01100a97ca6bebd89d",
+  "notes": "1. 打开 App 即自动同步教务课表（旧版要等满 6 小时才刷）\n2. 连不上教务时，课表上方会明确提示，先看本地缓存\n3. 使用须知补充：教务登录状态本身不稳，长时间不打开会掉，但不影响看课表，有课程变动时重登一次即可",
+  "publishedAt": "2026-11-18 12:30"
+}
